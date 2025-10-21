@@ -641,7 +641,7 @@
 
     <script>
         // API Configuration
-        const API_URL = 'api_customers_simple.php'; // Change this to your API endpoint
+        const API_URL = 'https://frsm.qcprotektado.com/Employee/api/api_customers_simple.php'; // Change this to your API endpoint
 
         // Global variables
         let customersData = [];
